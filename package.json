@@ -1,0 +1,23 @@
+{
+  "name": "ajs-with-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svetlana-Arkhipova/ajs-with-library.git"
+  },
+  "author": "Svetlana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svetlana-Arkhipova/ajs-with-library/issues"
+  },
+  "homepage": "https://github.com/Svetlana-Arkhipova/ajs-with-library#readme",
+  "dependencies": {
+    "@svetlana-arkhipova/ajs": "^1.0.0"
+  }
+}
